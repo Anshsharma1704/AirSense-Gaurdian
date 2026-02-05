@@ -1,4 +1,4 @@
-# 🌬️ AirSense Guardian
+# 🌬️ AirSense-G
 
 **"From Awareness to Action"**
 
